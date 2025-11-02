@@ -1,0 +1,131 @@
+{
+  "total_crops": 6,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 5,
+          "element_type": "page_header",
+          "crop_path": "output_results/invoice_Anemone Ratner_8876/cropped_sections/page_001_order_001_page_header_id_5.png",
+          "crop_filename": "page_001_order_001_page_header_id_5.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 26.642000000000053,
+            "right": 100.456,
+            "bottom": 36.39200000000005,
+            "width": 52.456,
+            "height": 9.75
+          },
+          "crop_size": {
+            "width": 248,
+            "height": 70
+          },
+          "confidence": 0.8202645182609558
+        },
+        {
+          "reading_order": 2,
+          "element_id": 17,
+          "element_type": "section_header",
+          "crop_path": "output_results/invoice_Anemone Ratner_8876/cropped_sections/page_001_order_002_section_header_id_17.png",
+          "crop_filename": "page_001_order_002_section_header_id_17.png",
+          "original_bbox": {
+            "left": 461.25,
+            "top": 27.769999999999982,
+            "right": 575.187,
+            "bottom": 55.51999999999998,
+            "width": 113.93700000000001,
+            "height": 27.75
+          },
+          "crop_size": {
+            "width": 505,
+            "height": 146
+          },
+          "confidence": 0.6945126056671143
+        },
+        {
+          "reading_order": 3,
+          "element_id": 16,
+          "element_type": "text",
+          "crop_path": "output_results/invoice_Anemone Ratner_8876/cropped_sections/page_001_order_003_text_id_16.png",
+          "crop_filename": "page_001_order_003_text_id_16.png",
+          "original_bbox": {
+            "left": 534.75,
+            "top": 58.75199999999995,
+            "right": 571.374,
+            "bottom": 70.75199999999995,
+            "width": 36.624000000000024,
+            "height": 12.0
+          },
+          "crop_size": {
+            "width": 182,
+            "height": 80
+          },
+          "confidence": 0.6953207850456238
+        },
+        {
+          "reading_order": 4,
+          "element_id": 13,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Anemone Ratner_8876/cropped_sections/page_001_order_004_key_value_region_id_13.png",
+          "crop_filename": "page_001_order_004_key_value_region_id_13.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 110.64200000000005,
+            "right": 567.957,
+            "bottom": 173.64200000000005,
+            "width": 519.957,
+            "height": 63.0
+          },
+          "crop_size": {
+            "width": 2196,
+            "height": 292
+          },
+          "confidence": 0.7121350765228271
+        },
+        {
+          "reading_order": 5,
+          "element_id": 0,
+          "element_type": "table",
+          "crop_path": "output_results/invoice_Anemone Ratner_8876/cropped_sections/page_001_order_005_table_id_0.png",
+          "crop_filename": "page_001_order_005_table_id_0.png",
+          "original_bbox": {
+            "left": 29.534318923950195,
+            "top": 218.29513549804688,
+            "right": 583.6064453125,
+            "bottom": 406.6308898925781,
+            "width": 554.0721263885498,
+            "height": 188.33575439453125
+          },
+          "crop_size": {
+            "width": 2338,
+            "height": 815
+          },
+          "confidence": 0.8804944753646851
+        },
+        {
+          "reading_order": 6,
+          "element_id": 23,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Anemone Ratner_8876/cropped_sections/page_001_order_006_key_value_region_id_23.png",
+          "crop_filename": "page_001_order_006_key_value_region_id_23.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 450.392,
+            "right": 216.847,
+            "bottom": 520.892,
+            "width": 168.847,
+            "height": 70.50000000000006
+          },
+          "crop_size": {
+            "width": 733,
+            "height": 324
+          },
+          "confidence": 0.545213520526886
+        }
+      ],
+      "success": true
+    }
+  ]
+}

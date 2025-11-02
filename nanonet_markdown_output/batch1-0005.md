@@ -1,0 +1,135 @@
+## Page 1
+
+<!-- Layout: two_column (2 column(s)) -->
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">  <!-- Column 1 -->
+
+**Invoice no: 89969473
+
+Date of issue: 10/29/2016**
+
+## Seller:
+
+Johnson-Martin
+3836 Moore Ports
+North Michael, MO 01844
+
+**Tax Id: 972-82-0713
+IRAN: CP71CPDC620**
+
+Fax ID: 372 82 0715
+IBAN: GB71GBDG68039919194335
+
+## ITEMS
+
+## SUMMARY
+
+</div>
+
+<div style="flex: 1;">  <!-- Column 2 -->
+
+## Client:
+
+Deleon, Davila and Allen
+355 King Lake Suite 071
+South Haleyshire, KY 55765
+
+Tax Id: 944-77-3882
+
+**Tax Id: 944-77-3882**
+
+</div>
+
+</div>
+
+```html
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Description</th>
+    <th>Qty</th>
+    <th>UM</th>
+    <th>Net price</th>
+    <th>Net worth</th>
+    <th>VAT [%]</th>
+    <th>Gross worth</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Wild West Wine</td>
+    <td>2,00</td>
+    <td>each</td>
+    <td>27,00</td>
+    <td>54,00</td>
+    <td>10%</td>
+    <td>59,40</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>Press Wine 15L Fruit Cider Apple Crusher Juice Grape Stainless Maker Grapes New</td>
+    <td>2,00</td>
+    <td>each</td>
+    <td>279,00</td>
+    <td>558,00</td>
+    <td>10%</td>
+    <td>613,80</td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Wine Rack Holder Iron Art Hanging Racks Glass Cup Stemware Shelf Mounted 2 Color</td>
+    <td>3,00</td>
+    <td>each</td>
+    <td>18,75</td>
+    <td>56,25</td>
+    <td>10%</td>
+    <td>61,87</td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>Rust Proof Three Rows Tool Wine Glass Holder Simple Iron Wire Home Hanging Rack</td>
+    <td>2,00</td>
+    <td>each</td>
+    <td>11,56</td>
+    <td>23,12</td>
+    <td>10%</td>
+    <td>25,43</td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>VTG 1970s MCM Brown Steel Tube Wall or Desk Mounted 12-Wine Rack Bottle Holder</td>
+    <td>1,00</td>
+    <td>each</td>
+    <td>34,00</td>
+    <td>34,00</td>
+    <td>10%</td>
+    <td>37,40</td>
+  </tr>
+</table>
+```
+
+```html
+<table>
+  <tr>
+    <td></td>
+    <td><strong>VAT [%]</strong></td>
+    <td><strong>Net worth</strong></td>
+    <td><strong>VAT</strong></td>
+    <td><strong>Gross worth</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10%</td>
+    <td>725,37</td>
+    <td>72,54</td>
+    <td>797,91</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Total</strong></td>
+    <td><strong>$ 725,37</strong></td>
+    <td><strong>$ 72,54</strong></td>
+    <td><strong>$ 797,91</strong></td>
+  </tr>
+</table>
+```

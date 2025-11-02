@@ -1,0 +1,131 @@
+{
+  "total_crops": 6,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 10,
+          "element_type": "page_header",
+          "crop_path": "output_results/invoice_Andy Yotov_37313/cropped_sections/page_001_order_001_page_header_id_10.png",
+          "crop_filename": "page_001_order_001_page_header_id_10.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 26.642000000000053,
+            "right": 100.456,
+            "bottom": 36.39200000000005,
+            "width": 52.456,
+            "height": 9.75
+          },
+          "crop_size": {
+            "width": 248,
+            "height": 70
+          },
+          "confidence": 0.8036813139915466
+        },
+        {
+          "reading_order": 2,
+          "element_id": 19,
+          "element_type": "section_header",
+          "crop_path": "output_results/invoice_Andy Yotov_37313/cropped_sections/page_001_order_002_section_header_id_19.png",
+          "crop_filename": "page_001_order_002_section_header_id_19.png",
+          "original_bbox": {
+            "left": 461.25,
+            "top": 27.769999999999982,
+            "right": 575.187,
+            "bottom": 55.51999999999998,
+            "width": 113.93700000000001,
+            "height": 27.75
+          },
+          "crop_size": {
+            "width": 505,
+            "height": 146
+          },
+          "confidence": 0.713697075843811
+        },
+        {
+          "reading_order": 3,
+          "element_id": 20,
+          "element_type": "text",
+          "crop_path": "output_results/invoice_Andy Yotov_37313/cropped_sections/page_001_order_003_text_id_20.png",
+          "crop_filename": "page_001_order_003_text_id_20.png",
+          "original_bbox": {
+            "left": 528.75,
+            "top": 58.75199999999995,
+            "right": 572.042,
+            "bottom": 70.75199999999995,
+            "width": 43.29200000000003,
+            "height": 12.0
+          },
+          "crop_size": {
+            "width": 210,
+            "height": 80
+          },
+          "confidence": 0.7021724581718445
+        },
+        {
+          "reading_order": 4,
+          "element_id": 22,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Andy Yotov_37313/cropped_sections/page_001_order_004_key_value_region_id_22.png",
+          "crop_filename": "page_001_order_004_key_value_region_id_22.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 110.64200000000005,
+            "right": 567.808,
+            "bottom": 173.64200000000005,
+            "width": 519.808,
+            "height": 63.0
+          },
+          "crop_size": {
+            "width": 2195,
+            "height": 292
+          },
+          "confidence": 0.6345815658569336
+        },
+        {
+          "reading_order": 5,
+          "element_id": 5,
+          "element_type": "table",
+          "crop_path": "output_results/invoice_Andy Yotov_37313/cropped_sections/page_001_order_005_table_id_5.png",
+          "crop_filename": "page_001_order_005_table_id_5.png",
+          "original_bbox": {
+            "left": 29.20904541015625,
+            "top": 217.82821655273438,
+            "right": 583.5934448242188,
+            "bottom": 398.4916687011719,
+            "width": 554.3843994140625,
+            "height": 180.6634521484375
+          },
+          "crop_size": {
+            "width": 2340,
+            "height": 783
+          },
+          "confidence": 0.8338220119476318
+        },
+        {
+          "reading_order": 6,
+          "element_id": 26,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Andy Yotov_37313/cropped_sections/page_001_order_006_key_value_region_id_26.png",
+          "crop_filename": "page_001_order_006_key_value_region_id_26.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 443.642,
+            "right": 221.722,
+            "bottom": 514.142,
+            "width": 173.722,
+            "height": 70.50000000000006
+          },
+          "crop_size": {
+            "width": 753,
+            "height": 324
+          },
+          "confidence": 0.557202935218811
+        }
+      ],
+      "success": true
+    }
+  ]
+}

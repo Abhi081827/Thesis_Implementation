@@ -1,0 +1,116 @@
+## Page 1
+
+<!-- Layout: single_column (1 column(s)) -->
+
+<img>R-T-I triangle pointing to the right</img>
+
+## INVOICE
+
+**DATE: March 8, 1984
+TERMS: Net
+INV. NO.: 31T 2552-14B**
+
+**TO:
+Lorillard Research Center
+Post Office Box 21688
+Greensboro, N. C. 27420
+
+ATTN: Dr. Harry Minnemeyer
+Director, Research
+
+REFERENCE:
+P.O. No. 327B and 336A
+Agreement Dated 11/18/82
+
+FOR:
+Carbon-14 Syntheses
+Other Direct Costs
+
+PERIOD:
+February 1, 1984 to February 29, 1984**
+
+*022240*
+
+<...>
+
+-54-0000
+
+DURHAM
+
+FROM
+
+RALEIGH.
+
+AND
+
+CHAPEL
+
+HILL
+
+*RESEARCH TRIANGLE INSTITUTE
+POST OFFICE BOX 12194
+RESEARCH TRIANGLE PARK, NORTH CAROLINA 27709*
+
+```html
+OTHER DIRECT COSTS:
+
+<table>
+  <tr>
+    <td>CURRENT</td>
+    <td>CUMULATIVE</td>
+  </tr>
+  <tr>
+    <td>Materials</td>
+    <td>$ 990.04</td>
+    <td>$11,374.12</td>
+  </tr>
+  <tr>
+    <td>Services</td>
+    <td>110.00</td>
+    <td>1,191.00</td>
+  </tr>
+  <tr>
+    <td>Shipping & Communications</td>
+    <td>56.70</td>
+    <td>246.00</td>
+  </tr>
+  <tr>
+    <td>ODC SUBTOTAL</td>
+    <td>$1,156.74</td>
+    <td>$12,811.12</td>
+  </tr>
+  <tr>
+    <td>Omase OH - Prov 12.00%</td>
+    <td>138.81</td>
+    <td>1,475.25</td>
+  </tr>
+  <tr>
+    <td>ODC and OMASE SUBTOTAL</td>
+    <td>$1,295.55</td>
+    <td>$14,286.37</td>
+  </tr>
+  <tr>
+    <td>Fee 15.00%</td>
+    <td>194.33</td>
+    <td>2,142.95</td>
+  </tr>
+  <tr>
+    <td>TOTAL AMOUNT CLAIMED</td>
+    <td>$1,489.88</td>
+    <td>$16,429.32</td>
+  </tr>
+  <tr>
+    <td>TOTAL DUE</td>
+    <td><strong>$1,489.88</strong></td>
+    <td></td>
+  </tr>
+</table>
+```
+
+1) Details are provided on the attached list. Please note that prices presented on the list do not include prepaid shipping charges and sales tax (when applicable). Such charges are included in the total material amount claimed above.
+
+PLEASE RETURN ONE COPY OF INVOICE WITH PAYMENT TO ASSURE PROPER CREDIT
+
+<img>009222</img>
+
+PLEASE RETURN ONE COPY OF INVOICE WITH PAYMENT TO ASSURE PROPER CREDIT

@@ -1,0 +1,131 @@
+{
+  "total_crops": 6,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 5,
+          "element_type": "page_header",
+          "crop_path": "output_results/invoice_Anna Chung_36194/cropped_sections/page_001_order_001_page_header_id_5.png",
+          "crop_filename": "page_001_order_001_page_header_id_5.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 26.642000000000053,
+            "right": 100.456,
+            "bottom": 36.39200000000005,
+            "width": 52.456,
+            "height": 9.75
+          },
+          "crop_size": {
+            "width": 248,
+            "height": 70
+          },
+          "confidence": 0.8126413226127625
+        },
+        {
+          "reading_order": 2,
+          "element_id": 15,
+          "element_type": "section_header",
+          "crop_path": "output_results/invoice_Anna Chung_36194/cropped_sections/page_001_order_002_section_header_id_15.png",
+          "crop_filename": "page_001_order_002_section_header_id_15.png",
+          "original_bbox": {
+            "left": 461.25,
+            "top": 27.769999999999982,
+            "right": 575.187,
+            "bottom": 55.51999999999998,
+            "width": 113.93700000000001,
+            "height": 27.75
+          },
+          "crop_size": {
+            "width": 505,
+            "height": 146
+          },
+          "confidence": 0.7043235898017883
+        },
+        {
+          "reading_order": 3,
+          "element_id": 16,
+          "element_type": "text",
+          "crop_path": "output_results/invoice_Anna Chung_36194/cropped_sections/page_001_order_003_text_id_16.png",
+          "crop_filename": "page_001_order_003_text_id_16.png",
+          "original_bbox": {
+            "left": 528.75,
+            "top": 58.75199999999995,
+            "right": 572.042,
+            "bottom": 70.75199999999995,
+            "width": 43.29200000000003,
+            "height": 12.0
+          },
+          "crop_size": {
+            "width": 210,
+            "height": 80
+          },
+          "confidence": 0.7034944891929626
+        },
+        {
+          "reading_order": 4,
+          "element_id": 21,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Anna Chung_36194/cropped_sections/page_001_order_004_key_value_region_id_21.png",
+          "crop_filename": "page_001_order_004_key_value_region_id_21.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 110.64200000000005,
+            "right": 567.957,
+            "bottom": 166.54899999999998,
+            "width": 519.957,
+            "height": 55.906999999999925
+          },
+          "crop_size": {
+            "width": 2196,
+            "height": 262
+          },
+          "confidence": 0.580068051815033
+        },
+        {
+          "reading_order": 5,
+          "element_id": 0,
+          "element_type": "table",
+          "crop_path": "output_results/invoice_Anna Chung_36194/cropped_sections/page_001_order_005_table_id_0.png",
+          "crop_filename": "page_001_order_005_table_id_0.png",
+          "original_bbox": {
+            "left": 28.899072647094727,
+            "top": 206.99758911132812,
+            "right": 583.7771606445312,
+            "bottom": 394.6578063964844,
+            "width": 554.8780879974365,
+            "height": 187.66021728515625
+          },
+          "crop_size": {
+            "width": 2342,
+            "height": 812
+          },
+          "confidence": 0.8785250782966614
+        },
+        {
+          "reading_order": 6,
+          "element_id": 24,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Anna Chung_36194/cropped_sections/page_001_order_006_key_value_region_id_24.png",
+          "crop_filename": "page_001_order_006_key_value_region_id_24.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 439.142,
+            "right": 222.261,
+            "bottom": 509.642,
+            "width": 174.261,
+            "height": 70.5
+          },
+          "crop_size": {
+            "width": 756,
+            "height": 324
+          },
+          "confidence": 0.5646075010299683
+        }
+      ],
+      "success": true
+    }
+  ]
+}

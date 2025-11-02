@@ -1,0 +1,51 @@
+{
+  "total_crops": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 11,
+          "element_type": "section_header",
+          "crop_path": "output_results/invoice_Anna Andreadi_39301/cropped_sections/page_001_order_001_section_header_id_11.png",
+          "crop_filename": "page_001_order_001_section_header_id_11.png",
+          "original_bbox": {
+            "left": 461.25,
+            "top": 27.769999999999982,
+            "right": 575.187,
+            "bottom": 55.51999999999998,
+            "width": 113.93700000000001,
+            "height": 27.75
+          },
+          "crop_size": {
+            "width": 505,
+            "height": 146
+          },
+          "confidence": 0.7737541794776917
+        },
+        {
+          "reading_order": 2,
+          "element_id": 12,
+          "element_type": "form",
+          "crop_path": "output_results/invoice_Anna Andreadi_39301/cropped_sections/page_001_order_002_form_id_12.png",
+          "crop_filename": "page_001_order_002_form_id_12.png",
+          "original_bbox": {
+            "left": 44.25,
+            "top": 98.64200000000005,
+            "right": 568.081,
+            "bottom": 272.64200000000005,
+            "width": 523.831,
+            "height": 174.0
+          },
+          "crop_size": {
+            "width": 2213,
+            "height": 755
+          },
+          "confidence": 0.49523404240608215
+        }
+      ],
+      "success": true
+    }
+  ]
+}

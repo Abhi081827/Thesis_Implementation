@@ -1,0 +1,86 @@
+{
+  "source_type": ".tif",
+  "document_metadata": {
+    "total_pages": 1,
+    "element_statistics": {
+      "total_elements": 3,
+      "by_type": {
+        "form": 1,
+        "picture": 1,
+        "page_footer": 1
+      }
+    },
+    "page_dimensions": [
+      {
+        "width": 754.0,
+        "height": 1000.0
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "dimensions": {
+        "width": 754.0,
+        "height": 1000.0
+      },
+      "elements": [
+        {
+          "id": 1,
+          "index": 1,
+          "reading_order": 1,
+          "reading_order_method": "spatial",
+          "type": "picture",
+          "bounding_box": {
+            "left": 23.92650604248047,
+            "top": 78.67017364501953,
+            "right": 681.0299682617188,
+            "bottom": 965.6714477539062,
+            "width": 657.1034622192383,
+            "height": 887.0012741088867
+          },
+          "confidence": 0.7285289168357849,
+          "cell_count": 61
+        },
+        {
+          "id": 42,
+          "index": 0,
+          "reading_order": 2,
+          "reading_order_method": "spatial",
+          "type": "form",
+          "bounding_box": {
+            "left": 24.565160115559895,
+            "top": 76.10887145996094,
+            "right": 683.3125,
+            "bottom": 967.2378743489584,
+            "width": 658.7473398844401,
+            "height": 891.1290028889974
+          },
+          "confidence": 0.47752076387405396,
+          "cell_count": 61
+        },
+        {
+          "id": 22,
+          "index": 2,
+          "reading_order": 3,
+          "reading_order_method": "spatial",
+          "type": "page_footer",
+          "bounding_box": {
+            "left": 668.77392578125,
+            "top": 846.774169921875,
+            "right": 684.315185546875,
+            "bottom": 958.165283203125,
+            "width": 15.541259765625,
+            "height": 111.39111328125
+          },
+          "confidence": 0.550679624080658,
+          "cell_count": 1
+        }
+      ],
+      "element_count": 3,
+      "has_image": false,
+      "reading_order_available": true,
+      "reading_order_method": "spatial"
+    }
+  ]
+}

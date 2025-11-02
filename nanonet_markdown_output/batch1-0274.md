@@ -1,0 +1,143 @@
+## Page 1
+
+<!-- Layout: two_column (2 column(s)) -->
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">  <!-- Column 1 -->
+
+**Invoice no: 65123866
+
+Date of issue: 11/20/2012**
+
+## Seller:
+
+Potts, Pittman and Beck
+USNV Stone
+FPO AE 65337
+
+**Tax Id: 970-95-1799
+IRAN: CBE5YMSCM925**
+
+Tax ID: 378 55 1733
+IBAN: GB55YMCM02538391714621
+
+## ITEMS
+
+## SUMMARY
+
+</div>
+
+<div style="flex: 1;">  <!-- Column 2 -->
+
+## Client:
+
+Garcia-Perkins
+897 Gonzalez Junction Apt. 934
+Jesseburgh, MN 12053
+
+Tax Id: 992-87-3315
+
+</div>
+
+</div>
+
+```html
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Description</th>
+    <th>Qty</th>
+    <th>UM</th>
+    <th>Net price</th>
+    <th>Net worth</th>
+    <th>VAT [%]</th>
+    <th>Gross worth</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>The Four Agreements: A Practical Guide to Personal Freedom by Don Miguel Ruiz</td>
+    <td>1,00</td>
+    <td>each</td>
+    <td>3,30</td>
+    <td>3,30</td>
+    <td>10%</td>
+    <td>3,63</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>The World of Van Gogh from Time Life Library of Art</td>
+    <td>4,00</td>
+    <td>each</td>
+    <td>14,97</td>
+    <td>59,88</td>
+    <td>10%</td>
+    <td>65,87</td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Principles of Virology, 2 Volume Set (ASM Books)</td>
+    <td>5,00</td>
+    <td>each</td>
+    <td>121,90</td>
+    <td>609,50</td>
+    <td>10%</td>
+    <td>670,45</td>
+  </tr>
+  <tr>
+    <td>4.</td>
+    <td>A boy who grew up eating nightmare It's Okay to Not Be Okay Picturebook おばけの少年</td>
+    <td>3,00</td>
+    <td>each</td>
+    <td>19,50</td>
+    <td>58,50</td>
+    <td>10%</td>
+    <td>64,35</td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>The Value Of Time</td>
+    <td>5,00</td>
+    <td>each</td>
+    <td>17,73</td>
+    <td>88,65</td>
+    <td>10%</td>
+    <td>97,52</td>
+  </tr>
+  <tr>
+    <td>6.</td>
+    <td>The Home Stretch</td>
+    <td>2,00</td>
+    <td>each</td>
+    <td>5,38</td>
+    <td>10,76</td>
+    <td>10%</td>
+    <td>11,84</td>
+  </tr>
+</table>
+```
+
+```html
+<table>
+  <tr>
+    <td></td>
+    <td><strong>VAT [%]</strong></td>
+    <td><strong>Net worth</strong></td>
+    <td><strong>VAT</strong></td>
+    <td><strong>Gross worth</strong></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10%</td>
+    <td>830,59</td>
+    <td>83,06</td>
+    <td>913,65</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Total</strong></td>
+    <td><strong>$ 830,59</strong></td>
+    <td><strong>$ 83,06</strong></td>
+    <td><strong>$ 913,65</strong></td>
+  </tr>
+</table>
+```

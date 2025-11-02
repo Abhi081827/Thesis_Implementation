@@ -1,0 +1,131 @@
+{
+  "total_crops": 6,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 2,
+          "element_type": "page_header",
+          "crop_path": "output_results/invoice_Anna Andreadi_39302/cropped_sections/page_001_order_001_page_header_id_2.png",
+          "crop_filename": "page_001_order_001_page_header_id_2.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 26.642000000000053,
+            "right": 100.456,
+            "bottom": 36.39200000000005,
+            "width": 52.456,
+            "height": 9.75
+          },
+          "crop_size": {
+            "width": 248,
+            "height": 70
+          },
+          "confidence": 0.8365411758422852
+        },
+        {
+          "reading_order": 2,
+          "element_id": 16,
+          "element_type": "section_header",
+          "crop_path": "output_results/invoice_Anna Andreadi_39302/cropped_sections/page_001_order_002_section_header_id_16.png",
+          "crop_filename": "page_001_order_002_section_header_id_16.png",
+          "original_bbox": {
+            "left": 461.25,
+            "top": 27.769999999999982,
+            "right": 575.187,
+            "bottom": 55.51999999999998,
+            "width": 113.93700000000001,
+            "height": 27.75
+          },
+          "crop_size": {
+            "width": 505,
+            "height": 146
+          },
+          "confidence": 0.6419404149055481
+        },
+        {
+          "reading_order": 3,
+          "element_id": 17,
+          "element_type": "text",
+          "crop_path": "output_results/invoice_Anna Andreadi_39302/cropped_sections/page_001_order_003_text_id_17.png",
+          "crop_filename": "page_001_order_003_text_id_17.png",
+          "original_bbox": {
+            "left": 528.75,
+            "top": 58.75199999999995,
+            "right": 572.042,
+            "bottom": 70.75199999999995,
+            "width": 43.29200000000003,
+            "height": 12.0
+          },
+          "crop_size": {
+            "width": 210,
+            "height": 80
+          },
+          "confidence": 0.6322915554046631
+        },
+        {
+          "reading_order": 4,
+          "element_id": 27,
+          "element_type": "table",
+          "crop_path": "output_results/invoice_Anna Andreadi_39302/cropped_sections/page_001_order_004_table_id_27.png",
+          "crop_filename": "page_001_order_004_table_id_27.png",
+          "original_bbox": {
+            "left": 46.412071228027344,
+            "top": 109.13522338867188,
+            "right": 586.2389526367188,
+            "bottom": 172.45773315429688,
+            "width": 539.8268814086914,
+            "height": 63.322509765625
+          },
+          "crop_size": {
+            "width": 2279,
+            "height": 294
+          },
+          "confidence": 0.5256118774414062
+        },
+        {
+          "reading_order": 5,
+          "element_id": 1,
+          "element_type": "table",
+          "crop_path": "output_results/invoice_Anna Andreadi_39302/cropped_sections/page_001_order_005_table_id_1.png",
+          "crop_filename": "page_001_order_005_table_id_1.png",
+          "original_bbox": {
+            "left": 29.706605911254883,
+            "top": 218.22706604003906,
+            "right": 583.2059326171875,
+            "bottom": 384.9409484863281,
+            "width": 553.4993267059326,
+            "height": 166.71388244628906
+          },
+          "crop_size": {
+            "width": 2337,
+            "height": 724
+          },
+          "confidence": 0.841789960861206
+        },
+        {
+          "reading_order": 6,
+          "element_id": 23,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Anna Andreadi_39302/cropped_sections/page_001_order_006_key_value_region_id_23.png",
+          "crop_filename": "page_001_order_006_key_value_region_id_23.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 428.642,
+            "right": 221.722,
+            "bottom": 499.142,
+            "width": 173.722,
+            "height": 70.5
+          },
+          "crop_size": {
+            "width": 753,
+            "height": 323
+          },
+          "confidence": 0.5801506638526917
+        }
+      ],
+      "success": true
+    }
+  ]
+}

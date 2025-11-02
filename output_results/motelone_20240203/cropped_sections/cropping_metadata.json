@@ -1,0 +1,377 @@
+{
+  "total_crops": 18,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 19,
+          "element_type": "section_header",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_001_section_header_id_19.png",
+          "crop_filename": "page_001_order_001_section_header_id_19.png",
+          "original_bbox": {
+            "left": 70.56,
+            "top": 92.63999999999999,
+            "right": 293.0,
+            "bottom": 98.88600000000008,
+            "width": 222.44,
+            "height": 6.246000000000095
+          },
+          "crop_size": {
+            "width": 957,
+            "height": 57
+          },
+          "confidence": 0.6757503151893616
+        },
+        {
+          "reading_order": 2,
+          "element_id": 11,
+          "element_type": "text",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_002_text_id_11.png",
+          "crop_filename": "page_001_order_002_text_id_11.png",
+          "original_bbox": {
+            "left": 68.4,
+            "top": 130.08000000000004,
+            "right": 198.0,
+            "bottom": 174.24900000000002,
+            "width": 129.6,
+            "height": 44.16899999999998
+          },
+          "crop_size": {
+            "width": 570,
+            "height": 215
+          },
+          "confidence": 0.8001990914344788
+        },
+        {
+          "reading_order": 3,
+          "element_id": 5,
+          "element_type": "section_header",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_003_section_header_id_5.png",
+          "crop_filename": "page_001_order_003_section_header_id_5.png",
+          "original_bbox": {
+            "left": 69.6,
+            "top": 246.72000000000003,
+            "right": 111.6,
+            "bottom": 257.05000000000007,
+            "width": 42.0,
+            "height": 10.330000000000041
+          },
+          "crop_size": {
+            "width": 205,
+            "height": 74
+          },
+          "confidence": 0.8678674697875977
+        },
+        {
+          "reading_order": 4,
+          "element_id": 9,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_004_key_value_region_id_9.png",
+          "crop_filename": "page_001_order_004_key_value_region_id_9.png",
+          "original_bbox": {
+            "left": 70.56,
+            "top": 273.36,
+            "right": 461.32,
+            "bottom": 305.769,
+            "width": 390.76,
+            "height": 32.40899999999999
+          },
+          "crop_size": {
+            "width": 1659,
+            "height": 166
+          },
+          "confidence": 0.8245368003845215
+        },
+        {
+          "reading_order": 5,
+          "element_id": 0,
+          "element_type": "table",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_005_table_id_0.png",
+          "crop_filename": "page_001_order_005_table_id_0.png",
+          "original_bbox": {
+            "left": 68.15507507324219,
+            "top": 326.192138671875,
+            "right": 528.6724243164062,
+            "bottom": 582.3717041015625,
+            "width": 460.51734924316406,
+            "height": 256.1795654296875
+          },
+          "crop_size": {
+            "width": 1949,
+            "height": 1097
+          },
+          "confidence": 0.9812265634536743
+        },
+        {
+          "reading_order": 6,
+          "element_id": 4,
+          "element_type": "table",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_006_table_id_4.png",
+          "crop_filename": "page_001_order_006_table_id_4.png",
+          "original_bbox": {
+            "left": 68.94395446777344,
+            "top": 591.5516967773438,
+            "right": 528.4541015625,
+            "bottom": 636.3185424804688,
+            "width": 459.51014709472656,
+            "height": 44.766845703125
+          },
+          "crop_size": {
+            "width": 1944,
+            "height": 217
+          },
+          "confidence": 0.870901882648468
+        },
+        {
+          "reading_order": 7,
+          "element_id": 26,
+          "element_type": "section_header",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_007_section_header_id_26.png",
+          "crop_filename": "page_001_order_007_section_header_id_26.png",
+          "original_bbox": {
+            "left": 71.28,
+            "top": 670.32,
+            "right": 398.64,
+            "bottom": 679.2090000000001,
+            "width": 327.36,
+            "height": 8.88900000000001
+          },
+          "crop_size": {
+            "width": 1394,
+            "height": 68
+          },
+          "confidence": 0.5502573847770691
+        },
+        {
+          "reading_order": 8,
+          "element_id": 20,
+          "element_type": "text",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_008_text_id_20.png",
+          "crop_filename": "page_001_order_008_text_id_20.png",
+          "original_bbox": {
+            "left": 75.84,
+            "top": 645.6,
+            "right": 135.6,
+            "bottom": 654.729,
+            "width": 59.75999999999999,
+            "height": 9.129000000000019
+          },
+          "crop_size": {
+            "width": 279,
+            "height": 69
+          },
+          "confidence": 0.6259407997131348
+        },
+        {
+          "reading_order": 9,
+          "element_id": 33,
+          "element_type": "text",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_009_text_id_33.png",
+          "crop_filename": "page_001_order_009_text_id_33.png",
+          "original_bbox": {
+            "left": 507.12,
+            "top": 644.8800000000001,
+            "right": 525.12,
+            "bottom": 653.529,
+            "width": 18.0,
+            "height": 8.648999999999887
+          },
+          "crop_size": {
+            "width": 105,
+            "height": 67
+          },
+          "confidence": 0.5230023264884949
+        },
+        {
+          "reading_order": 10,
+          "element_id": 1,
+          "element_type": "table",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_010_table_id_1.png",
+          "crop_filename": "page_001_order_010_table_id_1.png",
+          "original_bbox": {
+            "left": 67.95893096923828,
+            "top": 676.8896484375,
+            "right": 527.2064819335938,
+            "bottom": 718.8448486328125,
+            "width": 459.24755096435547,
+            "height": 41.9552001953125
+          },
+          "crop_size": {
+            "width": 1943,
+            "height": 205
+          },
+          "confidence": 0.8956258296966553
+        },
+        {
+          "reading_order": 11,
+          "element_id": 27,
+          "element_type": "text",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_011_text_id_27.png",
+          "crop_filename": "page_001_order_011_text_id_27.png",
+          "original_bbox": {
+            "left": 71.04,
+            "top": 750.48,
+            "right": 169.4,
+            "bottom": 757.927,
+            "width": 98.36,
+            "height": 7.447000000000003
+          },
+          "crop_size": {
+            "width": 440,
+            "height": 62
+          },
+          "confidence": 0.5418239831924438
+        },
+        {
+          "reading_order": 12,
+          "element_id": 34,
+          "element_type": "page_footer",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_012_page_footer_id_34.png",
+          "crop_filename": "page_001_order_012_page_footer_id_34.png",
+          "original_bbox": {
+            "left": 71.04,
+            "top": 761.76,
+            "right": 155.32,
+            "bottom": 771.129,
+            "width": 84.27999999999999,
+            "height": 9.369000000000028
+          },
+          "crop_size": {
+            "width": 382,
+            "height": 70
+          },
+          "confidence": 0.5171507000923157
+        },
+        {
+          "reading_order": 13,
+          "element_id": 31,
+          "element_type": "page_footer",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_013_page_footer_id_31.png",
+          "crop_filename": "page_001_order_013_page_footer_id_31.png",
+          "original_bbox": {
+            "left": 71.28,
+            "top": 773.2800000000001,
+            "right": 173.64,
+            "bottom": 782.409,
+            "width": 102.35999999999999,
+            "height": 9.128999999999905
+          },
+          "crop_size": {
+            "width": 457,
+            "height": 69
+          },
+          "confidence": 0.5343247056007385
+        },
+        {
+          "reading_order": 14,
+          "element_id": 18,
+          "element_type": "page_footer",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_014_page_footer_id_18.png",
+          "crop_filename": "page_001_order_014_page_footer_id_18.png",
+          "original_bbox": {
+            "left": 273.84,
+            "top": 788.6400000000001,
+            "right": 526.92,
+            "bottom": 814.566,
+            "width": 253.07999999999998,
+            "height": 25.92599999999993
+          },
+          "crop_size": {
+            "width": 1085,
+            "height": 139
+          },
+          "confidence": 0.7026618719100952
+        },
+        {
+          "reading_order": 15,
+          "element_id": 28,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_001_order_015_key_value_region_id_28.png",
+          "crop_filename": "page_001_order_015_key_value_region_id_28.png",
+          "original_bbox": {
+            "left": 339.7520751953125,
+            "top": 800.9965209960938,
+            "right": 527.6217041015625,
+            "bottom": 814.8050537109375,
+            "width": 187.86962890625,
+            "height": 13.80853271484375
+          },
+          "crop_size": {
+            "width": 813,
+            "height": 88
+          },
+          "confidence": 0.5412946939468384
+        }
+      ],
+      "success": true
+    },
+    {
+      "page_number": 2,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 3,
+          "element_type": "section_header",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_002_order_001_section_header_id_3.png",
+          "crop_filename": "page_002_order_001_section_header_id_3.png",
+          "original_bbox": {
+            "left": 66.72,
+            "top": 92.40000000000009,
+            "right": 288.08,
+            "bottom": 99.12700000000007,
+            "width": 221.35999999999999,
+            "height": 6.726999999999975
+          },
+          "crop_size": {
+            "width": 953,
+            "height": 59
+          },
+          "confidence": 0.5935064554214478
+        },
+        {
+          "reading_order": 2,
+          "element_id": 1,
+          "element_type": "text",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_002_order_002_text_id_1.png",
+          "crop_filename": "page_002_order_002_text_id_1.png",
+          "original_bbox": {
+            "left": 212.16,
+            "top": 112.80000000000007,
+            "right": 377.12,
+            "bottom": 144.48900000000003,
+            "width": 164.96,
+            "height": 31.688999999999965
+          },
+          "crop_size": {
+            "width": 718,
+            "height": 163
+          },
+          "confidence": 0.7141768336296082
+        },
+        {
+          "reading_order": 3,
+          "element_id": 0,
+          "element_type": "page_footer",
+          "crop_path": "output_results/motelone_20240203/cropped_sections/page_002_order_003_page_footer_id_0.png",
+          "crop_filename": "page_002_order_003_page_footer_id_0.png",
+          "original_bbox": {
+            "left": 272.16,
+            "top": 786.48,
+            "right": 524.44,
+            "bottom": 812.6460000000001,
+            "width": 252.28000000000003,
+            "height": 26.166000000000054
+          },
+          "crop_size": {
+            "width": 1082,
+            "height": 140
+          },
+          "confidence": 0.7630115747451782
+        }
+      ],
+      "success": true
+    }
+  ]
+}

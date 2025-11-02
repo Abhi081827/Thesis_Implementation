@@ -1,0 +1,91 @@
+{
+  "total_crops": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 0,
+          "element_type": "picture",
+          "crop_path": "output_results/happyitaly_20240306_001/cropped_sections/page_001_order_001_picture_id_0.png",
+          "crop_filename": "page_001_order_001_picture_id_0.png",
+          "original_bbox": {
+            "left": 51.30842590332031,
+            "top": 84.0630874633789,
+            "right": 181.91006469726562,
+            "bottom": 223.38380432128906,
+            "width": 130.6016387939453,
+            "height": 139.32071685791016
+          },
+          "crop_size": {
+            "width": 574,
+            "height": 610
+          },
+          "confidence": 0.8081339597702026
+        },
+        {
+          "reading_order": 2,
+          "element_id": 4,
+          "element_type": "text",
+          "crop_path": "output_results/happyitaly_20240306_001/cropped_sections/page_001_order_002_text_id_4.png",
+          "crop_filename": "page_001_order_002_text_id_4.png",
+          "original_bbox": {
+            "left": 70.32,
+            "top": 226.07999999999998,
+            "right": 154.32,
+            "bottom": 235.93,
+            "width": 84.0,
+            "height": 9.850000000000023
+          },
+          "crop_size": {
+            "width": 380,
+            "height": 72
+          },
+          "confidence": 0.6462782025337219
+        },
+        {
+          "reading_order": 3,
+          "element_id": 20,
+          "element_type": "table",
+          "crop_path": "output_results/happyitaly_20240306_001/cropped_sections/page_001_order_003_table_id_20.png",
+          "crop_filename": "page_001_order_003_table_id_20.png",
+          "original_bbox": {
+            "left": 3.348945379257202,
+            "top": 251.9073028564453,
+            "right": 207.0894775390625,
+            "bottom": 463.96728515625,
+            "width": 203.7405321598053,
+            "height": 212.0599822998047
+          },
+          "crop_size": {
+            "width": 877,
+            "height": 914
+          },
+          "confidence": 0.5413101315498352
+        },
+        {
+          "reading_order": 4,
+          "element_id": 3,
+          "element_type": "text",
+          "crop_path": "output_results/happyitaly_20240306_001/cropped_sections/page_001_order_004_text_id_3.png",
+          "crop_filename": "page_001_order_004_text_id_3.png",
+          "original_bbox": {
+            "left": 19.92,
+            "top": 511.44,
+            "right": 208.921,
+            "bottom": 589.6949999999999,
+            "width": 189.00099999999998,
+            "height": 78.25499999999994
+          },
+          "crop_size": {
+            "width": 817,
+            "height": 357
+          },
+          "confidence": 0.6563364267349243
+        }
+      ],
+      "success": true
+    }
+  ]
+}

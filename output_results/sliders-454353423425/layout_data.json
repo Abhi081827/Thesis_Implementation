@@ -1,0 +1,68 @@
+{
+  "source_type": ".pdf",
+  "document_metadata": {
+    "total_pages": 1,
+    "element_statistics": {
+      "total_elements": 2,
+      "by_type": {
+        "picture": 1,
+        "key_value_region": 1
+      }
+    },
+    "page_dimensions": [
+      {
+        "width": 612.0,
+        "height": 792.0
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "dimensions": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "elements": [
+        {
+          "id": 6,
+          "index": 0,
+          "reading_order": 1,
+          "reading_order_method": "spatial",
+          "type": "picture",
+          "bounding_box": {
+            "left": 67.48556518554688,
+            "top": 31.818639755249023,
+            "right": 545.0411376953125,
+            "bottom": 761.1306762695312,
+            "width": 477.5555725097656,
+            "height": 729.3120365142822
+          },
+          "confidence": 0.5708341002464294,
+          "cell_count": 23
+        },
+        {
+          "id": 22,
+          "index": 1,
+          "reading_order": 2,
+          "reading_order_method": "spatial",
+          "type": "key_value_region",
+          "bounding_box": {
+            "left": 106.78125,
+            "top": 258.67742919921875,
+            "right": 512.7890625,
+            "bottom": 520.5484212239584,
+            "width": 406.0078125,
+            "height": 261.8709920247396
+          },
+          "confidence": 0.4667105972766876,
+          "cell_count": 16
+        }
+      ],
+      "element_count": 2,
+      "has_image": false,
+      "reading_order_available": true,
+      "reading_order_method": "spatial"
+    }
+  ]
+}

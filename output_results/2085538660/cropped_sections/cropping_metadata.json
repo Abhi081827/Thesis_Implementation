@@ -1,0 +1,71 @@
+{
+  "total_crops": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 1,
+          "element_type": "picture",
+          "crop_path": "output_results/2085538660/cropped_sections/page_001_order_001_picture_id_1.png",
+          "crop_filename": "page_001_order_001_picture_id_1.png",
+          "original_bbox": {
+            "left": 23.92650604248047,
+            "top": 78.67017364501953,
+            "right": 681.0299682617188,
+            "bottom": 965.6714477539062,
+            "width": 657.1034622192383,
+            "height": 887.0012741088867
+          },
+          "crop_size": {
+            "width": 688,
+            "height": 917
+          },
+          "confidence": 0.7285289168357849
+        },
+        {
+          "reading_order": 2,
+          "element_id": 42,
+          "element_type": "form",
+          "crop_path": "output_results/2085538660/cropped_sections/page_001_order_002_form_id_42.png",
+          "crop_filename": "page_001_order_002_form_id_42.png",
+          "original_bbox": {
+            "left": 24.565160115559895,
+            "top": 76.10887145996094,
+            "right": 683.3125,
+            "bottom": 967.2378743489584,
+            "width": 658.7473398844401,
+            "height": 891.1290028889974
+          },
+          "crop_size": {
+            "width": 689,
+            "height": 921
+          },
+          "confidence": 0.47752076387405396
+        },
+        {
+          "reading_order": 3,
+          "element_id": 22,
+          "element_type": "page_footer",
+          "crop_path": "output_results/2085538660/cropped_sections/page_001_order_003_page_footer_id_22.png",
+          "crop_filename": "page_001_order_003_page_footer_id_22.png",
+          "original_bbox": {
+            "left": 668.77392578125,
+            "top": 846.774169921875,
+            "right": 684.315185546875,
+            "bottom": 958.165283203125,
+            "width": 15.541259765625,
+            "height": 111.39111328125
+          },
+          "crop_size": {
+            "width": 46,
+            "height": 142
+          },
+          "confidence": 0.550679624080658
+        }
+      ],
+      "success": true
+    }
+  ]
+}

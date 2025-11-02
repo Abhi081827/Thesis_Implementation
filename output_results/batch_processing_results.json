@@ -1,0 +1,517 @@
+{
+  "start_time": "2025-10-23T18:43:03.448082",
+  "total_files": 60,
+  "successful": 60,
+  "failed": 0,
+  "results": [
+    {
+      "file": "invoice_Anna Andreadi_35318.pdf",
+      "path": "test_data/invoice_Anna Andreadi_35318.pdf",
+      "success": true,
+      "processing_time": 1.0285241603851318,
+      "output_dir": "output_results/invoice_Anna Andreadi_35318"
+    },
+    {
+      "file": "sliders-454353423425.pdf",
+      "path": "test_data/sliders-454353423425.pdf",
+      "success": true,
+      "processing_time": 5.124523162841797,
+      "output_dir": "output_results/sliders-454353423425"
+    },
+    {
+      "file": "shakeshack_20181208_004.pdf",
+      "path": "test_data/shakeshack_20181208_004.pdf",
+      "success": true,
+      "processing_time": 2.8916215896606445,
+      "output_dir": "output_results/shakeshack_20181208_004"
+    },
+    {
+      "file": "invoice_Anna Andreadi_39302.pdf",
+      "path": "test_data/invoice_Anna Andreadi_39302.pdf",
+      "success": true,
+      "processing_time": 1.181384563446045,
+      "output_dir": "output_results/invoice_Anna Andreadi_39302"
+    },
+    {
+      "file": "invoice_Angele Hood_35601.pdf",
+      "path": "test_data/invoice_Angele Hood_35601.pdf",
+      "success": true,
+      "processing_time": 1.0079827308654785,
+      "output_dir": "output_results/invoice_Angele Hood_35601"
+    },
+    {
+      "file": "invoice_Anemone Ratner_8876.pdf",
+      "path": "test_data/invoice_Anemone Ratner_8876.pdf",
+      "success": true,
+      "processing_time": 1.015915870666504,
+      "output_dir": "output_results/invoice_Anemone Ratner_8876"
+    },
+    {
+      "file": "spaceneedle_20240528_005.pdf",
+      "path": "test_data/spaceneedle_20240528_005.pdf",
+      "success": true,
+      "processing_time": 1.3197965621948242,
+      "output_dir": "output_results/spaceneedle_20240528_005"
+    },
+    {
+      "file": "invoice_Anna Andreadi_39300.pdf",
+      "path": "test_data/invoice_Anna Andreadi_39300.pdf",
+      "success": true,
+      "processing_time": 1.1841564178466797,
+      "output_dir": "output_results/invoice_Anna Andreadi_39300"
+    },
+    {
+      "file": "invoice_Andy Yotov_37313.pdf",
+      "path": "test_data/invoice_Andy Yotov_37313.pdf",
+      "success": true,
+      "processing_time": 1.0379981994628906,
+      "output_dir": "output_results/invoice_Andy Yotov_37313"
+    },
+    {
+      "file": "invoice_Anna Andreadi_39301.pdf",
+      "path": "test_data/invoice_Anna Andreadi_39301.pdf",
+      "success": true,
+      "processing_time": 0.6116044521331787,
+      "output_dir": "output_results/invoice_Anna Andreadi_39301"
+    },
+    {
+      "file": "invoice_Ann Blume_35427.pdf",
+      "path": "test_data/invoice_Ann Blume_35427.pdf",
+      "success": true,
+      "processing_time": 1.0014655590057373,
+      "output_dir": "output_results/invoice_Ann Blume_35427"
+    },
+    {
+      "file": "invoice_Anna Gayman_42837.pdf",
+      "path": "test_data/invoice_Anna Gayman_42837.pdf",
+      "success": true,
+      "processing_time": 0.9762434959411621,
+      "output_dir": "output_results/invoice_Anna Gayman_42837"
+    },
+    {
+      "file": "invoice_Andy Yotov_37314.pdf",
+      "path": "test_data/invoice_Andy Yotov_37314.pdf",
+      "success": true,
+      "processing_time": 0.996030330657959,
+      "output_dir": "output_results/invoice_Andy Yotov_37314"
+    },
+    {
+      "file": "motelone_20240203.pdf",
+      "path": "test_data/motelone_20240203.pdf",
+      "success": true,
+      "processing_time": 9.021215438842773,
+      "output_dir": "output_results/motelone_20240203"
+    },
+    {
+      "file": "invoice_Anna HДberlin_40216.pdf",
+      "path": "test_data/invoice_Anna HДberlin_40216.pdf",
+      "success": true,
+      "processing_time": 0.9915957450866699,
+      "output_dir": "output_results/invoice_Anna HДberlin_40216"
+    },
+    {
+      "file": "invoice_Angele Hood_35602.pdf",
+      "path": "test_data/invoice_Angele Hood_35602.pdf",
+      "success": true,
+      "processing_time": 0.9845454692840576,
+      "output_dir": "output_results/invoice_Angele Hood_35602"
+    },
+    {
+      "file": "invoice_Andy Yotov_39986.pdf",
+      "path": "test_data/invoice_Andy Yotov_39986.pdf",
+      "success": true,
+      "processing_time": 1.0162856578826904,
+      "output_dir": "output_results/invoice_Andy Yotov_39986"
+    },
+    {
+      "file": "invoice_Anna Chung_36194.pdf",
+      "path": "test_data/invoice_Anna Chung_36194.pdf",
+      "success": true,
+      "processing_time": 1.0098376274108887,
+      "output_dir": "output_results/invoice_Anna Chung_36194"
+    },
+    {
+      "file": "happyitaly_20240306_001.pdf",
+      "path": "test_data/happyitaly_20240306_001.pdf",
+      "success": true,
+      "processing_time": 2.3783135414123535,
+      "output_dir": "output_results/happyitaly_20240306_001"
+    },
+    {
+      "file": "invoice_Anna Andreadi_35317.pdf",
+      "path": "test_data/invoice_Anna Andreadi_35317.pdf",
+      "success": true,
+      "processing_time": 6.219863414764404,
+      "output_dir": "output_results/invoice_Anna Andreadi_35317"
+    },
+    {
+      "file": "invoice_Angele Hood_12988.pdf",
+      "path": "test_data/invoice_Angele Hood_12988.pdf",
+      "success": true,
+      "processing_time": 0.9536011219024658,
+      "output_dir": "output_results/invoice_Angele Hood_12988"
+    },
+    {
+      "file": "invoice_Anna Andreadi_35319.pdf",
+      "path": "test_data/invoice_Anna Andreadi_35319.pdf",
+      "success": true,
+      "processing_time": 1.0425617694854736,
+      "output_dir": "output_results/invoice_Anna Andreadi_35319"
+    },
+    {
+      "file": "invoice_Andy Yotov_37315.pdf",
+      "path": "test_data/invoice_Andy Yotov_37315.pdf",
+      "success": true,
+      "processing_time": 1.0036365985870361,
+      "output_dir": "output_results/invoice_Andy Yotov_37315"
+    },
+    {
+      "file": "invoice_Anna Chung_36195.pdf",
+      "path": "test_data/invoice_Anna Chung_36195.pdf",
+      "success": true,
+      "processing_time": 1.1351349353790283,
+      "output_dir": "output_results/invoice_Anna Chung_36195"
+    },
+    {
+      "file": "invoice_Andy Yotov_37312.pdf",
+      "path": "test_data/invoice_Andy Yotov_37312.pdf",
+      "success": true,
+      "processing_time": 0.9459621906280518,
+      "output_dir": "output_results/invoice_Andy Yotov_37312"
+    },
+    {
+      "file": "00922240.tif",
+      "path": "test_data/00922240.tif",
+      "success": true,
+      "processing_time": 3.8106377124786377,
+      "output_dir": "output_results/00922240"
+    },
+    {
+      "file": "0013046347.tif",
+      "path": "test_data/0013046347.tif",
+      "success": true,
+      "processing_time": 3.3418726921081543,
+      "output_dir": "output_results/0013046347"
+    },
+    {
+      "file": "00921466.tif",
+      "path": "test_data/00921466.tif",
+      "success": true,
+      "processing_time": 2.426234722137451,
+      "output_dir": "output_results/00921466"
+    },
+    {
+      "file": "50120516-0516.tif",
+      "path": "test_data/50120516-0516.tif",
+      "success": true,
+      "processing_time": 2.7021331787109375,
+      "output_dir": "output_results/50120516-0516"
+    },
+    {
+      "file": "ti31689150.tif",
+      "path": "test_data/ti31689150.tif",
+      "success": true,
+      "processing_time": 2.242342710494995,
+      "output_dir": "output_results/ti31689150"
+    },
+    {
+      "file": "0001139626.tif",
+      "path": "test_data/0001139626.tif",
+      "success": true,
+      "processing_time": 4.307272911071777,
+      "output_dir": "output_results/0001139626"
+    },
+    {
+      "file": "2085538660.tif",
+      "path": "test_data/2085538660.tif",
+      "success": true,
+      "processing_time": 3.4969615936279297,
+      "output_dir": "output_results/2085538660"
+    },
+    {
+      "file": "ti31149327_9330.tif",
+      "path": "test_data/ti31149327_9330.tif",
+      "success": true,
+      "processing_time": 11.389101266860962,
+      "output_dir": "output_results/ti31149327_9330"
+    },
+    {
+      "file": "0001139716.tif",
+      "path": "test_data/0001139716.tif",
+      "success": true,
+      "processing_time": 4.711820125579834,
+      "output_dir": "output_results/0001139716"
+    },
+    {
+      "file": "00920576.tif",
+      "path": "test_data/00920576.tif",
+      "success": true,
+      "processing_time": 2.6931662559509277,
+      "output_dir": "output_results/00920576"
+    },
+    {
+      "file": "ti16311032.tif",
+      "path": "test_data/ti16311032.tif",
+      "success": true,
+      "processing_time": 2.3065502643585205,
+      "output_dir": "output_results/ti16311032"
+    },
+    {
+      "file": "ti31689113.tif",
+      "path": "test_data/ti31689113.tif",
+      "success": true,
+      "processing_time": 2.3607048988342285,
+      "output_dir": "output_results/ti31689113"
+    },
+    {
+      "file": "batch1-0020.jpg",
+      "path": "test_data/batch1-0020.jpg",
+      "success": true,
+      "processing_time": 6.7034995555877686,
+      "output_dir": "output_results/batch1-0020"
+    },
+    {
+      "file": "batch1-0274.jpg",
+      "path": "test_data/batch1-0274.jpg",
+      "success": true,
+      "processing_time": 6.6637282371521,
+      "output_dir": "output_results/batch1-0274"
+    },
+    {
+      "file": "batch1-0275.jpg",
+      "path": "test_data/batch1-0275.jpg",
+      "success": true,
+      "processing_time": 6.791751146316528,
+      "output_dir": "output_results/batch1-0275"
+    },
+    {
+      "file": "batch1-0277.jpg",
+      "path": "test_data/batch1-0277.jpg",
+      "success": true,
+      "processing_time": 6.062220335006714,
+      "output_dir": "output_results/batch1-0277"
+    },
+    {
+      "file": "batch1-0283.jpg",
+      "path": "test_data/batch1-0283.jpg",
+      "success": true,
+      "processing_time": 6.227858304977417,
+      "output_dir": "output_results/batch1-0283"
+    },
+    {
+      "file": "batch1-0003.jpg",
+      "path": "test_data/batch1-0003.jpg",
+      "success": true,
+      "processing_time": 6.095096111297607,
+      "output_dir": "output_results/batch1-0003"
+    },
+    {
+      "file": "batch1-0287.jpg",
+      "path": "test_data/batch1-0287.jpg",
+      "success": true,
+      "processing_time": 5.898296356201172,
+      "output_dir": "output_results/batch1-0287"
+    },
+    {
+      "file": "batch1-0005.jpg",
+      "path": "test_data/batch1-0005.jpg",
+      "success": true,
+      "processing_time": 6.893994331359863,
+      "output_dir": "output_results/batch1-0005"
+    },
+    {
+      "file": "batch1-0021.jpg",
+      "path": "test_data/batch1-0021.jpg",
+      "success": true,
+      "processing_time": 6.608197212219238,
+      "output_dir": "output_results/batch1-0021"
+    },
+    {
+      "file": "batch1-0284.jpg",
+      "path": "test_data/batch1-0284.jpg",
+      "success": true,
+      "processing_time": 5.455322265625,
+      "output_dir": "output_results/batch1-0284"
+    },
+    {
+      "file": "batch1-0281.jpg",
+      "path": "test_data/batch1-0281.jpg",
+      "success": true,
+      "processing_time": 5.846266031265259,
+      "output_dir": "output_results/batch1-0281"
+    },
+    {
+      "file": "batch1-0029.jpg",
+      "path": "test_data/batch1-0029.jpg",
+      "success": true,
+      "processing_time": 7.223571062088013,
+      "output_dir": "output_results/batch1-0029"
+    },
+    {
+      "file": "batch1-0286.jpg",
+      "path": "test_data/batch1-0286.jpg",
+      "success": true,
+      "processing_time": 6.6501452922821045,
+      "output_dir": "output_results/batch1-0286"
+    },
+    {
+      "file": "batch1-0001.jpg",
+      "path": "test_data/batch1-0001.jpg",
+      "success": true,
+      "processing_time": 7.070590972900391,
+      "output_dir": "output_results/batch1-0001"
+    },
+    {
+      "file": "batch1-0276.jpg",
+      "path": "test_data/batch1-0276.jpg",
+      "success": true,
+      "processing_time": 5.6272971630096436,
+      "output_dir": "output_results/batch1-0276"
+    },
+    {
+      "file": "batch1-0282.jpg",
+      "path": "test_data/batch1-0282.jpg",
+      "success": true,
+      "processing_time": 5.936768531799316,
+      "output_dir": "output_results/batch1-0282"
+    },
+    {
+      "file": "batch1-0279.jpg",
+      "path": "test_data/batch1-0279.jpg",
+      "success": true,
+      "processing_time": 6.288657188415527,
+      "output_dir": "output_results/batch1-0279"
+    },
+    {
+      "file": "batch1-0027.jpg",
+      "path": "test_data/batch1-0027.jpg",
+      "success": true,
+      "processing_time": 6.235727787017822,
+      "output_dir": "output_results/batch1-0027"
+    },
+    {
+      "file": "batch1-0288.jpg",
+      "path": "test_data/batch1-0288.jpg",
+      "success": true,
+      "processing_time": 5.357071399688721,
+      "output_dir": "output_results/batch1-0288"
+    },
+    {
+      "file": "batch1-0285.jpg",
+      "path": "test_data/batch1-0285.jpg",
+      "success": true,
+      "processing_time": 5.770066738128662,
+      "output_dir": "output_results/batch1-0285"
+    },
+    {
+      "file": "batch1-0278.jpg",
+      "path": "test_data/batch1-0278.jpg",
+      "success": true,
+      "processing_time": 6.807668447494507,
+      "output_dir": "output_results/batch1-0278"
+    },
+    {
+      "file": "batch1-0007.jpg",
+      "path": "test_data/batch1-0007.jpg",
+      "success": true,
+      "processing_time": 7.098582744598389,
+      "output_dir": "output_results/batch1-0007"
+    },
+    {
+      "file": "batch1-0280.jpg",
+      "path": "test_data/batch1-0280.jpg",
+      "success": true,
+      "processing_time": 5.817611217498779,
+      "output_dir": "output_results/batch1-0280"
+    }
+  ],
+  "statistics": {
+    "total_pages": 62,
+    "total_elements": 561,
+    "total_crops": 561,
+    "element_types": {
+      "section_header": 136,
+      "text": 155,
+      "page_header": 20,
+      "key_value_region": 121,
+      "table": 80,
+      "picture": 21,
+      "form": 4,
+      "page_footer": 23,
+      "list_item": 1
+    },
+    "file_types": {
+      ".pdf": 25,
+      ".tif": 12,
+      ".jpg": 23
+    },
+    "processing_times": [
+      1.0285241603851318,
+      5.124523162841797,
+      2.8916215896606445,
+      1.181384563446045,
+      1.0079827308654785,
+      1.015915870666504,
+      1.3197965621948242,
+      1.1841564178466797,
+      1.0379981994628906,
+      0.6116044521331787,
+      1.0014655590057373,
+      0.9762434959411621,
+      0.996030330657959,
+      9.021215438842773,
+      0.9915957450866699,
+      0.9845454692840576,
+      1.0162856578826904,
+      1.0098376274108887,
+      2.3783135414123535,
+      6.219863414764404,
+      0.9536011219024658,
+      1.0425617694854736,
+      1.0036365985870361,
+      1.1351349353790283,
+      0.9459621906280518,
+      3.8106377124786377,
+      3.3418726921081543,
+      2.426234722137451,
+      2.7021331787109375,
+      2.242342710494995,
+      4.307272911071777,
+      3.4969615936279297,
+      11.389101266860962,
+      4.711820125579834,
+      2.6931662559509277,
+      2.3065502643585205,
+      2.3607048988342285,
+      6.7034995555877686,
+      6.6637282371521,
+      6.791751146316528,
+      6.062220335006714,
+      6.227858304977417,
+      6.095096111297607,
+      5.898296356201172,
+      6.893994331359863,
+      6.608197212219238,
+      5.455322265625,
+      5.846266031265259,
+      7.223571062088013,
+      6.6501452922821045,
+      7.070590972900391,
+      5.6272971630096436,
+      5.936768531799316,
+      6.288657188415527,
+      6.235727787017822,
+      5.357071399688721,
+      5.770066738128662,
+      6.807668447494507,
+      7.098582744598389,
+      5.817611217498779
+    ],
+    "avg_processing_time": 3.949976456165314,
+    "min_processing_time": 0.6116044521331787,
+    "max_processing_time": 11.389101266860962
+  },
+  "errors": [],
+  "end_time": "2025-10-23T18:47:31.577190",
+  "total_processing_time": 268.1291694641113
+}

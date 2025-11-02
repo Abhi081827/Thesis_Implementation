@@ -1,0 +1,101 @@
+======================================================================
+BATCH PROCESSING SUMMARY REPORT
+======================================================================
+Generated: 2025-10-23 18:33:44
+
+OVERVIEW:
+  Total files processed: 60
+  Successful: 60
+  Failed: 0
+  Success rate: 100.0%
+  Total processing time: 253.22s
+
+CONTENT STATISTICS:
+  Total pages: 62
+  Total elements: 561
+  Total crops: 0
+
+PROCESSING TIMES:
+  Average: 4.22s
+  Minimum: 0.65s
+  Maximum: 12.31s
+
+FILE TYPES:
+  .jpg: 23
+  .pdf: 25
+  .tif: 12
+
+ELEMENT TYPES:
+  text: 155
+  section_header: 136
+  key_value_region: 121
+  table: 80
+  page_footer: 23
+  picture: 21
+  page_header: 20
+  form: 4
+  list_item: 1
+
+DETAILED RESULTS:
+                           File Status Time (s)
+invoice_Anna Andreadi_35318.pdf      ✅     1.05
+       sliders-454353423425.pdf      ✅     8.90
+    shakeshack_20181208_004.pdf      ✅     4.23
+invoice_Anna Andreadi_39302.pdf      ✅     1.21
+  invoice_Angele Hood_35601.pdf      ✅     1.05
+invoice_Anemone Ratner_8876.pdf      ✅     1.03
+   spaceneedle_20240528_005.pdf      ✅     1.39
+invoice_Anna Andreadi_39300.pdf      ✅     1.16
+   invoice_Andy Yotov_37313.pdf      ✅     1.01
+invoice_Anna Andreadi_39301.pdf      ✅     0.65
+    invoice_Ann Blume_35427.pdf      ✅     1.03
+  invoice_Anna Gayman_42837.pdf      ✅     0.98
+   invoice_Andy Yotov_37314.pdf      ✅     1.01
+          motelone_20240203.pdf      ✅    10.21
+invoice_Anna HДberlin_40216.pdf      ✅     0.98
+  invoice_Angele Hood_35602.pdf      ✅     1.00
+   invoice_Andy Yotov_39986.pdf      ✅     1.01
+   invoice_Anna Chung_36194.pdf      ✅     1.01
+    happyitaly_20240306_001.pdf      ✅     2.49
+invoice_Anna Andreadi_35317.pdf      ✅     6.32
+  invoice_Angele Hood_12988.pdf      ✅     0.98
+invoice_Anna Andreadi_35319.pdf      ✅     1.04
+   invoice_Andy Yotov_37315.pdf      ✅     1.01
+   invoice_Anna Chung_36195.pdf      ✅     1.11
+   invoice_Andy Yotov_37312.pdf      ✅     0.93
+                   00922240.tif      ✅     4.83
+                 0013046347.tif      ✅     4.10
+                   00921466.tif      ✅     3.17
+              50120516-0516.tif      ✅     3.45
+                 ti31689150.tif      ✅     2.91
+                 0001139626.tif      ✅     5.05
+                 2085538660.tif      ✅     4.07
+            ti31149327_9330.tif      ✅    12.31
+                 0001139716.tif      ✅     5.61
+                   00920576.tif      ✅     3.01
+                 ti16311032.tif      ✅     2.34
+                 ti31689113.tif      ✅     2.48
+                batch1-0020.jpg      ✅     7.35
+                batch1-0274.jpg      ✅     7.02
+                batch1-0275.jpg      ✅     7.21
+                batch1-0277.jpg      ✅     6.24
+                batch1-0283.jpg      ✅     6.25
+                batch1-0003.jpg      ✅     6.23
+                batch1-0287.jpg      ✅     5.98
+                batch1-0005.jpg      ✅     6.60
+                batch1-0021.jpg      ✅     6.64
+                batch1-0284.jpg      ✅     5.60
+                batch1-0281.jpg      ✅     5.96
+                batch1-0029.jpg      ✅     7.25
+                batch1-0286.jpg      ✅     6.65
+                batch1-0001.jpg      ✅     7.07
+                batch1-0276.jpg      ✅     5.62
+                batch1-0282.jpg      ✅     5.85
+                batch1-0279.jpg      ✅     6.22
+                batch1-0027.jpg      ✅     6.25
+                batch1-0288.jpg      ✅     5.57
+                batch1-0285.jpg      ✅     5.71
+                batch1-0278.jpg      ✅     6.89
+                batch1-0007.jpg      ✅     7.04
+                batch1-0280.jpg      ✅     5.73
+

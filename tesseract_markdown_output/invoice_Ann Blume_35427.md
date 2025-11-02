@@ -1,0 +1,29 @@
+
+---
+## Page 1
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+
+*SuperStore*
+
+</div>
+
+<div style="flex: 1;">
+
+## INVOICE
+
+# 35427
+
+</div>
+
+</div>
+
+**Date: Nov 17 2012 Bill To: Ship To: P . Ship Mode: Standard Class Ann Blume 60623, Chicago, Illinois, United States Balance Due: $16.33**
+
+```
+GBC White Gloss Covers, Plain Front 5 $14.48 $72.40 Binders, Office Supplies, OFF-BI-4377 Subtotal: $72.40 Discount (80%): $57.92 Shipping: $1.85 Total: $16.33
+```
+
+**Notes: Thanks for your business! Terms: Order ID : CA-2012-AB10600140-41230**

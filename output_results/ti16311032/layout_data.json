@@ -1,0 +1,190 @@
+{
+  "source_type": ".tif",
+  "document_metadata": {
+    "total_pages": 1,
+    "element_statistics": {
+      "total_elements": 9,
+      "by_type": {
+        "picture": 2,
+        "section_header": 1,
+        "text": 2,
+        "key_value_region": 2,
+        "page_footer": 2
+      }
+    },
+    "page_dimensions": [
+      {
+        "width": 754.0,
+        "height": 1000.0
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "dimensions": {
+        "width": 754.0,
+        "height": 1000.0
+      },
+      "elements": [
+        {
+          "id": 1,
+          "index": 0,
+          "reading_order": 1,
+          "reading_order_method": "spatial",
+          "type": "picture",
+          "bounding_box": {
+            "left": 199.29212951660156,
+            "top": 89.09553527832031,
+            "right": 533.8748779296875,
+            "bottom": 159.91957092285156,
+            "width": 334.58274841308594,
+            "height": 70.82403564453125
+          },
+          "confidence": 0.9330938458442688,
+          "cell_count": 2
+        },
+        {
+          "id": 6,
+          "index": 1,
+          "reading_order": 2,
+          "reading_order_method": "spatial",
+          "type": "section_header",
+          "bounding_box": {
+            "left": 329.3736572265625,
+            "top": 279.23386637369794,
+            "right": 396.5518391927083,
+            "bottom": 294.35483805338544,
+            "width": 67.17818196614581,
+            "height": 15.1209716796875
+          },
+          "confidence": 0.8302404284477234,
+          "cell_count": 1
+        },
+        {
+          "id": 0,
+          "index": 2,
+          "reading_order": 3,
+          "reading_order_method": "spatial",
+          "type": "text",
+          "bounding_box": {
+            "left": 89.73802693684895,
+            "top": 345.2620849609375,
+            "right": 253.6728719075521,
+            "bottom": 403.2257893880208,
+            "width": 163.93484497070312,
+            "height": 57.963704427083314
+          },
+          "confidence": 0.9372390508651733,
+          "cell_count": 5
+        },
+        {
+          "id": 17,
+          "index": 3,
+          "reading_order": 4,
+          "reading_order_method": "spatial",
+          "type": "key_value_region",
+          "bounding_box": {
+            "left": 90.74069213867188,
+            "top": 439.0120849609375,
+            "right": 579.035888671875,
+            "bottom": 485.383056640625,
+            "width": 488.2951965332031,
+            "height": 46.3709716796875
+          },
+          "confidence": 0.46316513419151306,
+          "cell_count": 5
+        },
+        {
+          "id": 15,
+          "index": 7,
+          "reading_order": 5,
+          "reading_order_method": "spatial",
+          "type": "picture",
+          "bounding_box": {
+            "left": 301.4912109375,
+            "top": 440.08697509765625,
+            "right": 319.0748596191406,
+            "bottom": 457.359130859375,
+            "width": 17.583648681640625,
+            "height": 17.27215576171875
+          },
+          "confidence": 0.5073021054267883,
+          "cell_count": 0
+        },
+        {
+          "id": 3,
+          "index": 4,
+          "reading_order": 6,
+          "reading_order_method": "spatial",
+          "type": "text",
+          "bounding_box": {
+            "left": 89.73802693684895,
+            "top": 521.1693522135416,
+            "right": 425.1276448567708,
+            "bottom": 615.4233805338541,
+            "width": 335.3896179199219,
+            "height": 94.2540283203125
+          },
+          "confidence": 0.8843536376953125,
+          "cell_count": 7
+        },
+        {
+          "id": 8,
+          "index": 5,
+          "reading_order": 7,
+          "reading_order_method": "spatial",
+          "type": "page_footer",
+          "bounding_box": {
+            "left": 122.324462890625,
+            "top": 923.89111328125,
+            "right": 604.1023763020834,
+            "bottom": 949.0927734375,
+            "width": 481.77791341145837,
+            "height": 25.20166015625
+          },
+          "confidence": 0.7246497273445129,
+          "cell_count": 2
+        },
+        {
+          "id": 16,
+          "index": 8,
+          "reading_order": 8,
+          "reading_order_method": "spatial",
+          "type": "key_value_region",
+          "bounding_box": {
+            "left": 255.38052368164062,
+            "top": 937.0433959960938,
+            "right": 473.8376159667969,
+            "bottom": 949.29736328125,
+            "width": 218.45709228515625,
+            "height": 12.25396728515625
+          },
+          "confidence": 0.478819876909256,
+          "cell_count": 0
+        },
+        {
+          "id": 2,
+          "index": 6,
+          "reading_order": 9,
+          "reading_order_method": "spatial",
+          "type": "page_footer",
+          "bounding_box": {
+            "left": 639.6968180338541,
+            "top": 962.7015787760416,
+            "right": 725.4241536458334,
+            "bottom": 977.8225911458334,
+            "width": 85.72733561197924,
+            "height": 15.121012369791742
+          },
+          "confidence": 0.9142013192176819,
+          "cell_count": 1
+        }
+      ],
+      "element_count": 9,
+      "has_image": false,
+      "reading_order_available": true,
+      "reading_order_method": "spatial"
+    }
+  ]
+}

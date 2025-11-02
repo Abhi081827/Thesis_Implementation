@@ -1,0 +1,131 @@
+{
+  "total_crops": 6,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 10,
+          "element_type": "page_header",
+          "crop_path": "output_results/invoice_Anna Gayman_42837/cropped_sections/page_001_order_001_page_header_id_10.png",
+          "crop_filename": "page_001_order_001_page_header_id_10.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 26.642000000000053,
+            "right": 100.456,
+            "bottom": 36.39200000000005,
+            "width": 52.456,
+            "height": 9.75
+          },
+          "crop_size": {
+            "width": 248,
+            "height": 70
+          },
+          "confidence": 0.7998453974723816
+        },
+        {
+          "reading_order": 2,
+          "element_id": 26,
+          "element_type": "picture",
+          "crop_path": "output_results/invoice_Anna Gayman_42837/cropped_sections/page_001_order_002_picture_id_26.png",
+          "crop_filename": "page_001_order_002_picture_id_26.png",
+          "original_bbox": {
+            "left": 462.5341491699219,
+            "top": 26.50303840637207,
+            "right": 573.9144897460938,
+            "bottom": 67.65921783447266,
+            "width": 111.38034057617188,
+            "height": 41.156179428100586
+          },
+          "crop_size": {
+            "width": 494,
+            "height": 201
+          },
+          "confidence": 0.5333939790725708
+        },
+        {
+          "reading_order": 3,
+          "element_id": 16,
+          "element_type": "text",
+          "crop_path": "output_results/invoice_Anna Gayman_42837/cropped_sections/page_001_order_003_text_id_16.png",
+          "crop_filename": "page_001_order_003_text_id_16.png",
+          "original_bbox": {
+            "left": 528.75,
+            "top": 58.75199999999995,
+            "right": 572.042,
+            "bottom": 70.75199999999995,
+            "width": 43.29200000000003,
+            "height": 12.0
+          },
+          "crop_size": {
+            "width": 210,
+            "height": 80
+          },
+          "confidence": 0.6626509428024292
+        },
+        {
+          "reading_order": 4,
+          "element_id": 19,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Anna Gayman_42837/cropped_sections/page_001_order_004_key_value_region_id_19.png",
+          "crop_filename": "page_001_order_004_key_value_region_id_19.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 110.64200000000005,
+            "right": 567.437,
+            "bottom": 166.54899999999998,
+            "width": 519.437,
+            "height": 55.906999999999925
+          },
+          "crop_size": {
+            "width": 2194,
+            "height": 262
+          },
+          "confidence": 0.6381620168685913
+        },
+        {
+          "reading_order": 5,
+          "element_id": 6,
+          "element_type": "table",
+          "crop_path": "output_results/invoice_Anna Gayman_42837/cropped_sections/page_001_order_005_table_id_6.png",
+          "crop_filename": "page_001_order_005_table_id_6.png",
+          "original_bbox": {
+            "left": 29.856201171875,
+            "top": 206.6156768798828,
+            "right": 583.214599609375,
+            "bottom": 373.1839294433594,
+            "width": 553.3583984375,
+            "height": 166.56825256347656
+          },
+          "crop_size": {
+            "width": 2336,
+            "height": 724
+          },
+          "confidence": 0.8155456781387329
+        },
+        {
+          "reading_order": 6,
+          "element_id": 25,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Anna Gayman_42837/cropped_sections/page_001_order_006_key_value_region_id_25.png",
+          "crop_filename": "page_001_order_006_key_value_region_id_25.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 417.392,
+            "right": 201.155,
+            "bottom": 487.892,
+            "width": 153.155,
+            "height": 70.5
+          },
+          "crop_size": {
+            "width": 668,
+            "height": 323
+          },
+          "confidence": 0.5444156527519226
+        }
+      ],
+      "success": true
+    }
+  ]
+}

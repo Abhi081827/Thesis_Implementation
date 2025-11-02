@@ -1,0 +1,131 @@
+{
+  "total_crops": 6,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 6,
+          "element_type": "page_header",
+          "crop_path": "output_results/invoice_Ann Blume_35427/cropped_sections/page_001_order_001_page_header_id_6.png",
+          "crop_filename": "page_001_order_001_page_header_id_6.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 26.642000000000053,
+            "right": 100.456,
+            "bottom": 36.39200000000005,
+            "width": 52.456,
+            "height": 9.75
+          },
+          "crop_size": {
+            "width": 248,
+            "height": 70
+          },
+          "confidence": 0.8038796782493591
+        },
+        {
+          "reading_order": 2,
+          "element_id": 17,
+          "element_type": "section_header",
+          "crop_path": "output_results/invoice_Ann Blume_35427/cropped_sections/page_001_order_002_section_header_id_17.png",
+          "crop_filename": "page_001_order_002_section_header_id_17.png",
+          "original_bbox": {
+            "left": 461.25,
+            "top": 27.769999999999982,
+            "right": 575.187,
+            "bottom": 55.51999999999998,
+            "width": 113.93700000000001,
+            "height": 27.75
+          },
+          "crop_size": {
+            "width": 505,
+            "height": 146
+          },
+          "confidence": 0.6821773052215576
+        },
+        {
+          "reading_order": 3,
+          "element_id": 18,
+          "element_type": "text",
+          "crop_path": "output_results/invoice_Ann Blume_35427/cropped_sections/page_001_order_003_text_id_18.png",
+          "crop_filename": "page_001_order_003_text_id_18.png",
+          "original_bbox": {
+            "left": 528.75,
+            "top": 58.75199999999995,
+            "right": 572.042,
+            "bottom": 70.75199999999995,
+            "width": 43.29200000000003,
+            "height": 12.0
+          },
+          "crop_size": {
+            "width": 210,
+            "height": 80
+          },
+          "confidence": 0.6564130187034607
+        },
+        {
+          "reading_order": 4,
+          "element_id": 16,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Ann Blume_35427/cropped_sections/page_001_order_004_key_value_region_id_16.png",
+          "crop_filename": "page_001_order_004_key_value_region_id_16.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 110.64200000000005,
+            "right": 567.562,
+            "bottom": 166.54899999999998,
+            "width": 519.562,
+            "height": 55.906999999999925
+          },
+          "crop_size": {
+            "width": 2194,
+            "height": 262
+          },
+          "confidence": 0.6874352693557739
+        },
+        {
+          "reading_order": 5,
+          "element_id": 0,
+          "element_type": "table",
+          "crop_path": "output_results/invoice_Ann Blume_35427/cropped_sections/page_001_order_005_table_id_0.png",
+          "crop_filename": "page_001_order_005_table_id_0.png",
+          "original_bbox": {
+            "left": 29.616559982299805,
+            "top": 206.9771728515625,
+            "right": 583.5106811523438,
+            "bottom": 394.9469909667969,
+            "width": 553.894121170044,
+            "height": 187.96981811523438
+          },
+          "crop_size": {
+            "width": 2338,
+            "height": 813
+          },
+          "confidence": 0.8621994256973267
+        },
+        {
+          "reading_order": 6,
+          "element_id": 23,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/invoice_Ann Blume_35427/cropped_sections/page_001_order_006_key_value_region_id_23.png",
+          "crop_filename": "page_001_order_006_key_value_region_id_23.png",
+          "original_bbox": {
+            "left": 48.0,
+            "top": 439.142,
+            "right": 221.722,
+            "bottom": 509.642,
+            "width": 173.722,
+            "height": 70.5
+          },
+          "crop_size": {
+            "width": 753,
+            "height": 324
+          },
+          "confidence": 0.5231901407241821
+        }
+      ],
+      "success": true
+    }
+  ]
+}

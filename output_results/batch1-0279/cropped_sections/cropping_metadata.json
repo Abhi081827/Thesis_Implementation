@@ -1,0 +1,251 @@
+{
+  "total_crops": 12,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 24,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_001_key_value_region_id_24.png",
+          "crop_filename": "page_001_order_001_key_value_region_id_24.png",
+          "original_bbox": {
+            "left": 128.04403686523438,
+            "top": 71.91482035319011,
+            "right": 983.2372233072916,
+            "bottom": 176.8397216796875,
+            "width": 855.1931864420573,
+            "height": 104.92490132649739
+          },
+          "crop_size": {
+            "width": 885,
+            "height": 135
+          },
+          "confidence": 0.5311866998672485
+        },
+        {
+          "reading_order": 2,
+          "element_id": 13,
+          "element_type": "section_header",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_002_section_header_id_13.png",
+          "crop_filename": "page_001_order_002_section_header_id_13.png",
+          "original_bbox": {
+            "left": 128.04403686523438,
+            "top": 439.741455078125,
+            "right": 260.78692626953125,
+            "bottom": 481.0040283203125,
+            "width": 132.74288940429688,
+            "height": 41.2625732421875
+          },
+          "crop_size": {
+            "width": 162,
+            "height": 72
+          },
+          "confidence": 0.9079546928405762
+        },
+        {
+          "reading_order": 3,
+          "element_id": 6,
+          "element_type": "section_header",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_003_section_header_id_6.png",
+          "crop_filename": "page_001_order_003_section_header_id_6.png",
+          "original_bbox": {
+            "left": 821.12646484375,
+            "top": 438.5625,
+            "right": 957.3934733072916,
+            "bottom": 481.0040283203125,
+            "width": 136.26700846354163,
+            "height": 42.4415283203125
+          },
+          "crop_size": {
+            "width": 166,
+            "height": 73
+          },
+          "confidence": 0.9327288866043091
+        },
+        {
+          "reading_order": 4,
+          "element_id": 2,
+          "element_type": "text",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_004_text_id_2.png",
+          "crop_filename": "page_001_order_004_text_id_2.png",
+          "original_bbox": {
+            "left": 138.6164754231771,
+            "top": 506.9405517578125,
+            "right": 562.6889241536459,
+            "bottom": 609.507568359375,
+            "width": 424.07244873046875,
+            "height": 102.5670166015625
+          },
+          "crop_size": {
+            "width": 454,
+            "height": 133
+          },
+          "confidence": 0.974367082118988
+        },
+        {
+          "reading_order": 5,
+          "element_id": 3,
+          "element_type": "text",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_005_text_id_3.png",
+          "crop_filename": "page_001_order_005_text_id_3.png",
+          "original_bbox": {
+            "left": 830.524169921875,
+            "top": 506.9405517578125,
+            "right": 1195.86083984375,
+            "bottom": 611.8654378255209,
+            "width": 365.336669921875,
+            "height": 104.92488606770837
+          },
+          "crop_size": {
+            "width": 395,
+            "height": 135
+          },
+          "confidence": 0.9655874967575073
+        },
+        {
+          "reading_order": 6,
+          "element_id": 10,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_006_key_value_region_id_10.png",
+          "crop_filename": "page_001_order_006_key_value_region_id_10.png",
+          "original_bbox": {
+            "left": 137.44176228841147,
+            "top": 649.5912272135416,
+            "right": 633.171875,
+            "bottom": 714.4324544270834,
+            "width": 495.7301127115885,
+            "height": 64.84122721354174
+          },
+          "crop_size": {
+            "width": 526,
+            "height": 95
+          },
+          "confidence": 0.9153198599815369
+        },
+        {
+          "reading_order": 7,
+          "element_id": 7,
+          "element_type": "text",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_007_text_id_7.png",
+          "crop_filename": "page_001_order_007_text_id_7.png",
+          "original_bbox": {
+            "left": 830.524169921875,
+            "top": 649.5912272135416,
+            "right": 1119.5042317708333,
+            "bottom": 681.4224039713541,
+            "width": 288.98006184895826,
+            "height": 31.8311767578125
+          },
+          "crop_size": {
+            "width": 319,
+            "height": 62
+          },
+          "confidence": 0.9255700707435608
+        },
+        {
+          "reading_order": 8,
+          "element_id": 17,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_008_key_value_region_id_17.png",
+          "crop_filename": "page_001_order_008_key_value_region_id_17.png",
+          "original_bbox": {
+            "left": 831.675537109375,
+            "top": 649.8287963867188,
+            "right": 1115.9432373046875,
+            "bottom": 675.62451171875,
+            "width": 284.2677001953125,
+            "height": 25.79571533203125
+          },
+          "crop_size": {
+            "width": 314,
+            "height": 56
+          },
+          "confidence": 0.8056933283805847
+        },
+        {
+          "reading_order": 9,
+          "element_id": 5,
+          "element_type": "section_header",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_009_section_header_id_5.png",
+          "crop_filename": "page_001_order_009_section_header_id_5.png",
+          "original_bbox": {
+            "left": 125.69460042317708,
+            "top": 755.695068359375,
+            "right": 254.9133504231771,
+            "bottom": 795.7787272135416,
+            "width": 129.21875,
+            "height": 40.08365885416663
+          },
+          "crop_size": {
+            "width": 159,
+            "height": 70
+          },
+          "confidence": 0.9432527422904968
+        },
+        {
+          "reading_order": 10,
+          "element_id": 0,
+          "element_type": "table",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_010_table_id_0.png",
+          "crop_filename": "page_001_order_010_table_id_0.png",
+          "original_bbox": {
+            "left": 131.53720092773438,
+            "top": 824.8162231445312,
+            "right": 1520.020751953125,
+            "bottom": 1318.8619384765625,
+            "width": 1388.4835510253906,
+            "height": 494.04571533203125
+          },
+          "crop_size": {
+            "width": 1419,
+            "height": 524
+          },
+          "confidence": 0.9910051822662354
+        },
+        {
+          "reading_order": 11,
+          "element_id": 4,
+          "element_type": "section_header",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_011_section_header_id_4.png",
+          "crop_filename": "page_001_order_011_section_header_id_4.png",
+          "original_bbox": {
+            "left": 129.21875,
+            "top": 1367.560546875,
+            "right": 331.2698974609375,
+            "bottom": 1402.9283854166667,
+            "width": 202.0511474609375,
+            "height": 35.36783854166674
+          },
+          "crop_size": {
+            "width": 232,
+            "height": 65
+          },
+          "confidence": 0.9441733360290527
+        },
+        {
+          "reading_order": 12,
+          "element_id": 1,
+          "element_type": "table",
+          "crop_path": "output_results/batch1-0279/cropped_sections/page_001_order_012_table_id_1.png",
+          "crop_filename": "page_001_order_012_table_id_1.png",
+          "original_bbox": {
+            "left": 131.1862335205078,
+            "top": 1434.5306396484375,
+            "right": 1519.26416015625,
+            "bottom": 1613.9527587890625,
+            "width": 1388.0779266357422,
+            "height": 179.422119140625
+          },
+          "crop_size": {
+            "width": 1418,
+            "height": 209
+          },
+          "confidence": 0.9806143045425415
+        }
+      ],
+      "success": true
+    }
+  ]
+}

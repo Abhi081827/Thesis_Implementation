@@ -1,0 +1,257 @@
+{
+  "total_crops": 12,
+  "pages": [
+    {
+      "page_number": 1,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 18,
+          "element_type": "table",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_001_order_001_table_id_18.png",
+          "crop_filename": "page_001_order_001_table_id_18.png",
+          "original_bbox": {
+            "left": 10.088120460510254,
+            "top": 80.21517181396484,
+            "right": 213.07716369628906,
+            "bottom": 290.55462646484375,
+            "width": 202.9890432357788,
+            "height": 210.3394546508789
+          },
+          "crop_size": {
+            "width": 875,
+            "height": 906
+          },
+          "confidence": 0.5882729887962341
+        },
+        {
+          "reading_order": 2,
+          "element_id": 0,
+          "element_type": "text",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_001_order_002_text_id_0.png",
+          "crop_filename": "page_001_order_002_text_id_0.png",
+          "original_bbox": {
+            "left": 26.772,
+            "top": 319.856,
+            "right": 191.711,
+            "bottom": 351.771,
+            "width": 164.93900000000002,
+            "height": 31.91500000000002
+          },
+          "crop_size": {
+            "width": 717,
+            "height": 163
+          },
+          "confidence": 0.7850228548049927
+        },
+        {
+          "reading_order": 3,
+          "element_id": 7,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_001_order_003_key_value_region_id_7.png",
+          "crop_filename": "page_001_order_003_key_value_region_id_7.png",
+          "original_bbox": {
+            "left": 35.321739196777344,
+            "top": 339.5166931152344,
+            "right": 184.4176788330078,
+            "bottom": 351.2555236816406,
+            "width": 149.09593963623047,
+            "height": 11.73883056640625
+          },
+          "crop_size": {
+            "width": 651,
+            "height": 79
+          },
+          "confidence": 0.6659482717514038
+        },
+        {
+          "reading_order": 4,
+          "element_id": 2,
+          "element_type": "text",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_001_order_004_text_id_2.png",
+          "crop_filename": "page_001_order_004_text_id_2.png",
+          "original_bbox": {
+            "left": 65.258,
+            "top": 367.468,
+            "right": 158.962,
+            "bottom": 374.017,
+            "width": 93.704,
+            "height": 6.548999999999978
+          },
+          "crop_size": {
+            "width": 421,
+            "height": 57
+          },
+          "confidence": 0.6782554388046265
+        }
+      ],
+      "success": true
+    },
+    {
+      "page_number": 2,
+      "crops": [
+        {
+          "reading_order": 1,
+          "element_id": 2,
+          "element_type": "picture",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_002_order_001_picture_id_2.png",
+          "crop_filename": "page_002_order_001_picture_id_2.png",
+          "original_bbox": {
+            "left": 86.1310043334961,
+            "top": 0.04629577696323395,
+            "right": 141.5331573486328,
+            "bottom": 38.11489486694336,
+            "width": 55.40215301513672,
+            "height": 38.068599089980125
+          },
+          "crop_size": {
+            "width": 261,
+            "height": 173
+          },
+          "confidence": 0.7618030905723572
+        },
+        {
+          "reading_order": 2,
+          "element_id": 6,
+          "element_type": "section_header",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_002_order_002_section_header_id_6.png",
+          "crop_filename": "page_002_order_002_section_header_id_6.png",
+          "original_bbox": {
+            "left": 88.64,
+            "top": 47.04199999999997,
+            "right": 137.394,
+            "bottom": 55.40899999999999,
+            "width": 48.754000000000005,
+            "height": 8.367000000000019
+          },
+          "crop_size": {
+            "width": 233,
+            "height": 64
+          },
+          "confidence": 0.727462112903595
+        },
+        {
+          "reading_order": 3,
+          "element_id": 10,
+          "element_type": "text",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_002_order_003_text_id_10.png",
+          "crop_filename": "page_002_order_003_text_id_10.png",
+          "original_bbox": {
+            "left": 31.372,
+            "top": 70.84800000000001,
+            "right": 193.127,
+            "bottom": 102.12400000000002,
+            "width": 161.755,
+            "height": 31.27600000000001
+          },
+          "crop_size": {
+            "width": 704,
+            "height": 160
+          },
+          "confidence": 0.5574125647544861
+        },
+        {
+          "reading_order": 4,
+          "element_id": 11,
+          "element_type": "key_value_region",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_002_order_004_key_value_region_id_11.png",
+          "crop_filename": "page_002_order_004_key_value_region_id_11.png",
+          "original_bbox": {
+            "left": 32.79091262817383,
+            "top": 81.45938873291016,
+            "right": 194.07449340820312,
+            "bottom": 101.06132507324219,
+            "width": 161.2835807800293,
+            "height": 19.60193634033203
+          },
+          "crop_size": {
+            "width": 702,
+            "height": 112
+          },
+          "confidence": 0.5464400053024292
+        },
+        {
+          "reading_order": 5,
+          "element_id": 0,
+          "element_type": "picture",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_002_order_005_picture_id_0.png",
+          "crop_filename": "page_002_order_005_picture_id_0.png",
+          "original_bbox": {
+            "left": 85.13837432861328,
+            "top": 146.0581512451172,
+            "right": 143.09754943847656,
+            "bottom": 233.66046142578125,
+            "width": 57.95917510986328,
+            "height": 87.60231018066406
+          },
+          "crop_size": {
+            "width": 272,
+            "height": 395
+          },
+          "confidence": 0.950868546962738
+        },
+        {
+          "reading_order": 6,
+          "element_id": 3,
+          "element_type": "text",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_002_order_006_text_id_3.png",
+          "crop_filename": "page_002_order_006_text_id_3.png",
+          "original_bbox": {
+            "left": 28.207,
+            "top": 242.099,
+            "right": 199.356,
+            "bottom": 288.118,
+            "width": 171.149,
+            "height": 46.019000000000005
+          },
+          "crop_size": {
+            "width": 743,
+            "height": 222
+          },
+          "confidence": 0.74549800157547
+        },
+        {
+          "reading_order": 7,
+          "element_id": 1,
+          "element_type": "picture",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_002_order_007_picture_id_1.png",
+          "crop_filename": "page_002_order_007_picture_id_1.png",
+          "original_bbox": {
+            "left": 76.57495880126953,
+            "top": 322.2203674316406,
+            "right": 150.77369689941406,
+            "bottom": 377.06585693359375,
+            "width": 74.19873809814453,
+            "height": 54.845489501953125
+          },
+          "crop_size": {
+            "width": 339,
+            "height": 259
+          },
+          "confidence": 0.9364917278289795
+        },
+        {
+          "reading_order": 8,
+          "element_id": 8,
+          "element_type": "text",
+          "crop_path": "output_results/shakeshack_20181208_004/cropped_sections/page_002_order_008_text_id_8.png",
+          "crop_filename": "page_002_order_008_text_id_8.png",
+          "original_bbox": {
+            "left": 22.948,
+            "top": 388.933,
+            "right": 205.333,
+            "bottom": 400.321,
+            "width": 182.385,
+            "height": 11.388000000000034
+          },
+          "crop_size": {
+            "width": 790,
+            "height": 70
+          },
+          "confidence": 0.5662376284599304
+        }
+      ],
+      "success": true
+    }
+  ]
+}

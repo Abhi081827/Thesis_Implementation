@@ -1,0 +1,29 @@
+
+---
+## Page 1
+
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+
+*SuperStore*
+
+</div>
+
+<div style="flex: 1;">
+
+INVOICE
+
+# 42837
+
+</div>
+
+</div>
+
+**Date: Sep 01 2012 Bill To: Ship To: | ; Pp . Ship Mode: Same Day Anna Gayman Vienna, Vienna, Austria Balance Due: $1,205.04**
+
+```
+Hon Conference Table, Fully Assembled 1 $922.95 $922.95 Tables, Furniture, FUR-TA-4646 Subtotal: $922.95 Shipping: $282.09 Total: $1,205.04
+```
+
+**Notes: Thanks for your business! Terms: Order ID : AU-2012-AG6758-41153**
