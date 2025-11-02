@@ -42,7 +42,6 @@ Ship Mode: Standard Class
 
 Balance Due: $236.12**
 
-```html
 <table>
 <thead>
 <tr>
@@ -77,4 +76,3 @@ Balance Due: $236.12**
 Subtotal: $231.77
 Shipping: $4.35
 Total: $236.12
-```

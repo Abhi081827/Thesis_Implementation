@@ -40,7 +40,6 @@ Ship Mode: Second Class
 
 Balance Due: $259.18**
 
-```html
 <table>
 <thead>
 <tr>
@@ -69,4 +68,3 @@ Balance Due: $259.18**
 Subtotal: $255.68
 Shipping: $3.50
 Total: $259.18
-```

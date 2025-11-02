@@ -41,7 +41,6 @@ Ship Mode: Same Day
 
 Balance Due: $1,205.04**
 
-```html
 <table>
   <tr>
     <td>Item</td>
@@ -66,4 +65,3 @@ Balance Due: $1,205.04**
 Subtotal: $922.95
 Shipping: $282.09
 Total: $1,205.04
-```

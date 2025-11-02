@@ -28,7 +28,6 @@ Order ID : US-2012-AC10660140-41196**
 
 </div>
 
-```html
 Date: Oct 14 2012
 
 Bill To:
@@ -40,9 +39,7 @@ Ship To:
 Ship Mode: First Class
 
 Balance Due: $16.57
-```
 
-```html
 <table>
 <thead>
 <tr>
@@ -72,4 +69,3 @@ Subtotal: $15.94
 Discount (20%): $3.19
 Shipping: $3.82
 Total: $16.57
-```

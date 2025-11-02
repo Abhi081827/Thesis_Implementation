@@ -40,7 +40,6 @@ Ship Mode: First Class
 
 Balance Due: $11,655.80**
 
-```html
 <table>
 <thead>
 <tr>
@@ -320,4 +319,3 @@ Balance Due: $11,655.80**
 <td></td>
 <td></td>
 <td
-```

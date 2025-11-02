@@ -28,7 +28,6 @@ Order ID : CA-2012-AA10645140-41243**
 
 </div>
 
-```html
 Date: Nov 30 2012
 
 Bill To:
@@ -42,9 +41,7 @@ Ship To:
 Ship Mode: First Class
 
 Balance Due: $606.34
-```
 
-```html
 <table>
 <thead>
 <tr>
@@ -73,4 +70,3 @@ Balance Due: $606.34
 Subtotal: $543.80
 Shipping: $62.54
 Total: $606.34
-```

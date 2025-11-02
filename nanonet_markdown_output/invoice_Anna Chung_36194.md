@@ -40,7 +40,6 @@ Ship Mode: First Class
 
 Balance Due: $309.48**
 
-```html
 <table>
 <thead>
 <tr>
@@ -70,4 +69,3 @@ Subtotal: $366.74
 Discount (30%): $110.02
 Shipping: $52.76
 Total: $309.48
-```
